@@ -1,0 +1,21 @@
+imagen,categoria,caption_original,caption_generada
+dataset/city_architecture/imagen1.png,city_architecture,several blocks of buildings very close together,a view of a city from a high rise
+dataset/city_architecture/imagen2.png,city_architecture,View of the corner of a glass building.,a tall building with many windows
+dataset/city_architecture/imagen3.png,city_architecture,An alley from which several blocks of buildings can be seen,a street with a fire hydra in the middle
+dataset/city_architecture/imagen4.png,city_architecture,two very different building facades,a tall building with a clock on the side
+dataset/city_architecture/imagen5.png,city_architecture,"circular, glass-covered building with iron figures",a tall building with a lot of windows
+dataset/industrial_areas/imagen6.png,industrial_areas,view from the sea of a factory at night,a large building with cranes in the background
+dataset/industrial_areas/imagen7.png,industrial_areas,aluminum factory seen at night,a large factory with a lot of pipes
+dataset/industrial_areas/imagen8.png,industrial_areas,four-story factory with yellow stairs,a large factory building
+dataset/industrial_areas/imagen9.png,industrial_areas,stairs to the office of a white factory,a white building with a staircase going up to the top
+dataset/industrial_areas/imagen10.png,industrial_areas,three pipes of a factory seen at night,a large factory
+dataset/street_life/imagen11.png,street_life,people crossing a crosswalk in new york,a group of people crossing a street in a city
+dataset/street_life/imagen12.png,street_life,people waiting to cross dressed in winter clothes,a group of people crossing a street in a city
+dataset/street_life/imagen13.png,street_life,Two parents and their son lifting him across a pedestrian crossing,a man and woman walking down a street holding hands
+dataset/street_life/imagen14.png,street_life,The city of Japan seen at night with its inhabitants carrying umbrellas,a group of people walking down a street holding umbrellas
+dataset/street_life/imagen15.png,street_life,a small street but full of people and bars,a crowded street at night with people walking and sitting
+dataset/urban_mobility/imagen16.png,urban_mobility,the tram running along a main street,a street with a bus on it
+dataset/urban_mobility/imagen17.png,urban_mobility,the crossing of many roads with cars circulating,an aerial view of a busy intersection in the city
+dataset/urban_mobility/imagen18.png,urban_mobility,people of all ages riding bicycles,a group of people riding bikes down a street
+dataset/urban_mobility/imagen19.png,urban_mobility,a man with a beard and long hair riding his bicycle,a man riding a bike
+dataset/urban_mobility/imagen20.png,urban_mobility,A man with an electric scooter and the city tram in front of him,a green bus
